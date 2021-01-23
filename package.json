@@ -6,8 +6,11 @@
     "build": "vite build"
   },
   "dependencies": {
+    "history": "^5.0.0",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "react-router": "^6.0.0-beta.0",
+    "react-router-dom": "^6.0.0-beta.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react-refresh": "^1.1.0",
